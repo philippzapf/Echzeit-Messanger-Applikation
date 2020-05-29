@@ -6,8 +6,6 @@
 Das Backend wurde mit NodeJS und dem ExpressJS und läuft für den Showcase auf Heroku.
 
 ##### Benutzte Bibliotheken
-* cors >>
-* nodemon >> für NodeJS
 * express >> als Framework
 * socket.io >> für Echzeit Datentransfer, wesentlich schneller als HTTP requests
 
@@ -18,9 +16,7 @@ https://echtzeit-chat-app.herokuapp.com/
 Für das Frontend wurde React genutzt. Das Frontend läuft für den ShowCase auf Netlify.
 
 ##### Benutze Bibliotheken
-* react-router-dom >> anstatt redux, dar wesentlich einfacher für diesen Showcase
 * socket.io-client >> socket.io client side
-* react-scroll-to-bottom >> damit wir im Chat-Messanger scrollen können
 
 ##### Netlify App Website
 https://infallible-visvesvaraya-3ede5c.netlify.app
