@@ -1,4 +1,4 @@
-# Echtzeit Messanger Webseite, entwicklet mit React und NodeJS
+# Echtzeit Messanger Applikation mit React und NodeJS
 * Die Applikation wurde mit React und NodeJS entwickelt. Socket.io wurde genutzt, um einen Echtzeit Datenaustausch herzustellen.
 * Die Applikation dient zu Trainingszwecken. Ich wollte verstehen, wie Backend und Frontend zusammenarbeiten und mit den neuesten Webtechnologien arbeiten.
 
